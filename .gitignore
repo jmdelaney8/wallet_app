@@ -3,6 +3,7 @@
 *.egg-info/
 *.db
 *.pyc
+*~
 .DS_Store
 __pycache__/
 env/
